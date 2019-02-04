@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name TinyFPGA-EX-rescue)(type Legacy)(uri ${KIPRJMOD}/TinyFPGA-EX-rescue.lib)(options "")(descr ""))
 )
